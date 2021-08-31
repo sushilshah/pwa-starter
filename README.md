@@ -111,5 +111,7 @@ pwa-starter
 |           |   app-index.ts (app-index component)
 |           |   app-home.ts (app-home component)
 |           |   app-about.ts (app-about component)
+|           |   app-about.ts (app-about component)
+|           |   app-about.ts (app-about component)
 
 ```
